@@ -1,7 +1,8 @@
 # Portfolio
 My portfolio :) 
 # About me
-Hello, my name is Michał Pawłowski and I would like to briefly introduce myself. I became interested in software testing a few years ago and decided to undertake and complete postgraduate studies in "Software Testing" at the University of Management and Computer Science in Rzeszow. Now I would like to present what I learned then and what I do now.
+Hello, my name is Michał Pawłowski and I would like to briefly introduce myself. I became interested in software testing a few years ago and decided to undertake and complete postgraduate studies in "Software Testing" at the University of Management and Computer Science in Rzeszow. In this portfolio I would like to present what I have learned during my studies and how I am currently extending my testing knowledge. 
+
 # Tools
 [Postman](https://www.postman.com/) - API platform for building and using APIs.
 
