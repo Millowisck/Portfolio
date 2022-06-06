@@ -47,3 +47,11 @@ Familiarity with ISTQB FL
 Testowanie REST API - REST Assured Java
 
 Cypress od podstaw - Automatyzacja testów
+
+# Books
+
+Radosław Śmiglin - ZAWÓD TESTER
+
+Krzysztof Jadczyk - PASJA TESTOWANIA
+
+Ben Forta - SQL W MGNIENIU OKA
