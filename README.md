@@ -50,8 +50,8 @@ Cypress od podstaw - Automatyzacja testów
 
 # Books
 
-Radosław Śmiglin - ZAWÓD TESTER
+[Radosław Śmiglin - ZAWÓD TESTER](https://www.empik.com/zawod-tester-od-decyzji-do-zdobycia-doswiadczenia-smilgin-radoslaw,p1214300025,ksiazka-p)
 
-Krzysztof Jadczyk - PASJA TESTOWANIA
+[Krzysztof Jadczyk - PASJA TESTOWANIA](https://www.empik.com/pasja-testowania-jadczyk-krzysztof,p1255689165,ksiazka-p)
 
-Ben Forta - SQL W MGNIENIU OKA
+[Ben Forta - SQL W MGNIENIU OKA](https://www.empik.com/sql-w-mgnieniu-oka-opanuj-jezyk-zapytan-w-10-minut-dziennie-forta-ben,p1306423504,ksiazka-p)
