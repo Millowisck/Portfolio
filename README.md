@@ -15,3 +15,27 @@ Hello, my name is Michał Pawłowski and I would like to briefly introduce mysel
 [JMeter](https://jmeter.apache.org/) - Test performance both on static and dynamic resources, Web dynamic applications.
 
 [SoapUI](https://www.soapui.org/) - Testing tool for SOAP and REST APIs.
+
+Git, GitHub
+
+# Tech Skills
+
+SQL
+
+Basic Java
+
+Fimiliarity with SCRUM and KANBAN
+
+Software testing
+
+Writing test cases and scenarios
+
+Reporting bugs
+
+Familiarity with ISTQB FL
+
+# Courses and Certifications
+
+[Kurs Jira od podstaw - zarząrzanie projektami](https://www.udemy.com/certificate/UC-21225db2-9bbb-41fa-906b-05a5fa39e814)
+[SQL - język zapytań do bazy danych SQL Server](https://www.udemy.com/certificate/UC-324b1456-4980-4223-94c0-d068a8b45b75)
+[Postman - Testowanie REST API](https://www.udemy.com/certificate/UC-9f3620f7-d54e-4080-94b1-89cc2fe13641)
