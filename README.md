@@ -50,7 +50,7 @@ Cypress od podstaw - Automatyzacja testów
 
 # Books
 
-[Radosław Śmiglin - ZAWÓD TESTER](https://www.empik.com/zawod-tester-od-decyzji-do-zdobycia-doswiadczenia-smilgin-radoslaw,p1214300025,ksiazka-p)
+[Radosław Smiglin - ZAWÓD TESTER](https://www.empik.com/zawod-tester-od-decyzji-do-zdobycia-doswiadczenia-smilgin-radoslaw,p1214300025,ksiazka-p)
 
 [Krzysztof Jadczyk - PASJA TESTOWANIA](https://www.empik.com/pasja-testowania-jadczyk-krzysztof,p1255689165,ksiazka-p)
 
